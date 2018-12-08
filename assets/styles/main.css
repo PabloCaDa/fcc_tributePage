@@ -105,3 +105,7 @@ footer #links-container a{
 footer #links-container a i{
     color:#fff;
 }
+
+footer #links-container a i:hover{
+    color:rgba(255, 255, 255, 0.664);
+}
